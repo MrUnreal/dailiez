@@ -166,84 +166,84 @@
     ]
   },
   {
-    "date": "2026-03-31",
-    "date_display": "March 31, 2026",
-    "generated_at": "2026-03-31T09:23:30Z",
+    "date": "2026-04-01",
+    "date_display": "April 01, 2026",
+    "generated_at": "2026-04-01T09:24:09Z",
     "engine": "g4f",
     "model": "openai-fast",
     "mode": "ai",
-    "quote": "In lands where the sun and strife share one sky, the brightest heart often hides behind the darkest shadow.\n\nWhen countless tongues dance upon a single set of notes, the silence between them becomes the truest story of understanding.\n\nA mother’s reunion can weave tears into a lattice of hope that rises even when the horizon is besieged.\n\nEven a revered melody carved on glass can echo the truth that the most precious memories are those shared between voices unheard.\n\nIn a world that builds barriers above the clouds, the only true cleft is the one that opens when we allow sky to belong to all dreamers.\n\nA silent vow in the laughter of a meal reminds us that nourishment of body and spirit blooms most fiercely in peace.\n\nWhen a wise songbird, unbowed by illness, returns to the stage, it teaches that destiny is not a destination but the song that rises in every heart.",
-    "quote_preview": "In lands where the sun and strife share one sky, the brightest heart often hides behind the darkest shadow.",
+    "quote": "The river that seeks to calm the storm will itself be carried farther by the current it hopes to master.  \n\nA child who learns the drumbeat of war is too often forgotten when the ancient rhythm resurfaces.  \n\nIn the garden of a nation, the fences we build decide whose roots may sprout.  \n\nWhen silence is taken hostage, the world makes noise in its own confusion.  \n\nEven the gentlest matriarch between mountains and coast cannot shield the sudden thud of explosives.  \n\nCounting souls in a nation is like counting stars: one asks, “Which one is yours?”  \n\nThe ash of a fallen ceremony reminds us that the faintest flame can still scorch the bone of tradition.",
+    "quote_preview": "The river that seeks to calm the storm will itself be carried farther by the current it hopes to master.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
-        "link": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
+        "title": "China is trying to play peacemaker in the Iran war - will it work?",
+        "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Eurovision Song Contest launches first-ever Asia edition",
-        "link": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss",
+        "title": "Iran using children in security roles in war, reports and witnesses say",
+        "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
-        "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+        "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Spain closes airspace to US aircraft involved in Iran war",
-        "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+        "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+        "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Gazan mother reunited with evacuated daughter after two years",
-        "link": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
+        "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
+        "link": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'A succulent Chinese meal' - iconic Australian quote immortalised in national film archive",
-        "link": "https://www.bbc.com/news/articles/c3exvk1207ko?at_medium=RSS&at_campaign=rss",
+        "title": "India begins counting more than a billion people in massive census",
+        "link": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Congressman writes to King Charles urging him to meet Epstein victims during US visit",
-        "link": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
+        "title": "Italian Christmas meal tragedy turns into murder inquiry",
+        "link": "https://www.bbc.com/news/articles/cje470qgl1yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
-        "link": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
+        "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
+        "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Kid Rock sparks US Army probe after helicopter flyby at his mansion",
-        "link": "https://www.bbc.com/news/articles/cdrmgvzm62no?at_medium=RSS&at_campaign=rss",
+        "title": "'My six-year-old has nosebleeds': Chiang Mai air pollution sparks health fears",
+        "link": "https://www.bbc.com/news/articles/c0le03ne05ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
-        "link": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
+        "title": "Tiger Woods to 'step away and seek treatment' after crash",
+        "link": "https://www.bbc.com/sport/golf/articles/c87wjj424vro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
-        "link": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+        "title": "Judge temporarily halts construction of Trump's White House ballroom",
+        "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-        "link": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
+        "title": "US Army pilots who flew near Kid Rock's home suspended and then reinstated within hours",
+        "link": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Air Canada CEO to retire after criticism for English-only condolence video",
-        "link": "https://www.bbc.com/news/articles/cgme8xy2rl1o?at_medium=RSS&at_campaign=rss",
+        "title": "Tech giant Oracle makes 'significant' job cuts",
+        "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Céline Dion announces comeback shows in Paris after incurable diagnosis",
-        "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
+        "title": "China bans storing cremated remains in empty 'bone ash apartments'",
+        "link": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
