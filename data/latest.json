@@ -1,82 +1,82 @@
 {
-  "date": "2026-04-01",
-  "date_display": "April 01, 2026",
-  "generated_at": "2026-04-01T09:24:09Z",
+  "date": "2026-04-03",
+  "date_display": "April 03, 2026",
+  "generated_at": "2026-04-03T09:16:23Z",
   "engine": "g4f",
   "model": "openai-fast",
   "mode": "ai",
-  "quote": "The river that seeks to calm the storm will itself be carried farther by the current it hopes to master.  \n\nA child who learns the drumbeat of war is too often forgotten when the ancient rhythm resurfaces.  \n\nIn the garden of a nation, the fences we build decide whose roots may sprout.  \n\nWhen silence is taken hostage, the world makes noise in its own confusion.  \n\nEven the gentlest matriarch between mountains and coast cannot shield the sudden thud of explosives.  \n\nCounting souls in a nation is like counting stars: one asks, “Which one is yours?”  \n\nThe ash of a fallen ceremony reminds us that the faintest flame can still scorch the bone of tradition.",
-  "quote_preview": "The river that seeks to calm the storm will itself be carried farther by the current it hopes to master.",
+  "quote": "In the moon's dark side, the wanderer learns that silence is sometimes the truest guide.\n\nWhen a storm rages over a city, a single child's cry reminds us that grief can be both fragile and stone‑hard.\n\nA pledge to share precious water comes at the cost of rising sorrow, for abundance without wisdom is a well that never fills.\n\nWhen a nation lifts a chain of isolation, the river of human connection must be checked, lest it spill over into chaos.\n\nTo claim ownership of a pet is to master nothing; the true guardian respects both love and freedom.\n\nIn heated battle, bravado must be tempered by humility, for the grandest roar may speak only to the silent listener.\n\nA golden relic returned after a theft reveals that longing to own is fleeting; even treasures bend to the tides of time.",
+  "quote_preview": "In the moon's dark side, the wanderer learns that silence is sometimes the truest guide.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "China is trying to play peacemaker in the Iran war - will it work?",
-      "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+      "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+      "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Iran using children in security roles in war, reports and witnesses say",
-      "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump removes US Attorney General Pam Bondi",
+      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-      "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+      "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
-      "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+      "title": "Fears cost of water and beer to soar as India's scorching summer hits",
+      "link": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
-      "link": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
+      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "India begins counting more than a billion people in massive census",
-      "link": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+      "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
+      "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Italian Christmas meal tragedy turns into murder inquiry",
-      "link": "https://www.bbc.com/news/articles/cje470qgl1yo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil grants joint custody over pets in new law for separated couples",
+      "link": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
-      "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
+      "title": "Hegseth asks US Army's top general to step down",
+      "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "'My six-year-old has nosebleeds': Chiang Mai air pollution sparks health fears",
-      "link": "https://www.bbc.com/news/articles/c0le03ne05ro?at_medium=RSS&at_campaign=rss",
+      "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
+      "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Tiger Woods to 'step away and seek treatment' after crash",
-      "link": "https://www.bbc.com/sport/golf/articles/c87wjj424vro?at_medium=RSS&at_campaign=rss",
+      "title": "Ancient golden helmet recovered more than a year after Dutch heist",
+      "link": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Judge temporarily halts construction of Trump's White House ballroom",
-      "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
+      "title": "Baby shot dead in pram in New York City, police say",
+      "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "US Army pilots who flew near Kid Rock's home suspended and then reinstated within hours",
-      "link": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
+      "title": "Man dies in storm near Athens as Saharan dust shrouds Crete",
+      "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Tech giant Oracle makes 'significant' job cuts",
-      "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
+      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
+      "link": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "China bans storing cremated remains in empty 'bone ash apartments'",
-      "link": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
+      "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
+      "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
