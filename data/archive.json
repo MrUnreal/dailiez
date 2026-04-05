@@ -166,19 +166,49 @@
     ]
   },
   {
-    "date": "2026-04-04",
-    "date_display": "April 04, 2026",
-    "generated_at": "2026-04-04T09:11:53Z",
+    "date": "2026-04-05",
+    "date_display": "April 05, 2026",
+    "generated_at": "2026-04-05T09:12:19Z",
     "engine": "g4f",
     "model": "openai-fast",
     "mode": "ai",
-    "quote": "The moon beckons the bold; those who linger only taste their own stars.  \n\nWhen the sentinel of law departs, the arena seems still, yet justice still roots.  \n\nA cage freed by a wind of compassion transforms into a prison of liberty, stronger than iron.  \n\nThe battlefield of nations that quarrel within itself is fought with words; the quietest voice wins.  \n\nA ship that sails a strait of tension learns that diplomacy is the secret anchor.  \n\nA rescue team in peril stitches courage into each breath, and each missing soul teaches patience.  \n\nA cyber attack upon a gallery shows that silence can be a shroud, while vigilance is the lantern.",
-    "quote_preview": "The moon beckons the bold; those who linger only taste their own stars.",
+    "quote": "In the heat of battle, a single lantern can guide a lost spirit home.\n\nWhen gunfire paints innocence crimson, thunder reminds the land to whisper about peace.\n\nArtifacts of remembrance turn bruised earth into gardens of hope.\n\nThe winds of technology can whirl a world into new dreams, but truth must be a steady root.\n\nA lone rat that finds a landmine’s hidden heart shows that even the meek may be guardians.\n\nThe moon’s eye reflects more than the earth, reminding us that distance cannot erase shared breath.\n\nWhen the heart still seeks to write, the world listens with open ears.",
+    "quote_preview": "In the heat of battle, a single lantern can guide a lost spirit home.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-        "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+        "title": "What we know so far about rescue of US airman in Iran",
+        "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Man charged over fatal shooting of baby in pram in New York",
+        "link": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+        "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "German males under 45 may need military approval for long stays abroad",
+        "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
+        "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+        "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Russian attack on Ukraine market kills five",
+        "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -187,13 +217,18 @@
         "source": "BBC World"
       },
       {
-        "title": "After 16 years in power, could Viktor Orban finally be unseated?",
-        "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+        "title": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
+        "link": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Burkina Faso must 'forget' about democracy, military leader says",
-        "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
+        "title": "World's oldest leader to get a deputy for first time in 43-year rule",
+        "link": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Australians told to continue Easter travel plans despite fuel shortages",
+        "link": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -202,48 +237,13 @@
         "source": "BBC World"
       },
       {
-        "title": "France's Muslim gathering ban overturned by courts",
-        "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+        "title": "ICE wanted to build a detention centre -  this small farming town said no",
+        "link": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
-        "link": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
-        "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",
-        "link": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "US deports eight people 'of African origin' to Uganda",
-        "link": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Italy's Uffizi Galleries targeted in cyber-attack but denies security breach",
-        "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Pete Hegseth asks US Army's top general to step down",
-        "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump removes US Attorney General Pam Bondi",
-        "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
-        "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+        "title": "The man who became one of India's greatest stage queens",
+        "link": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
