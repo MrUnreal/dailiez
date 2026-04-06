@@ -166,39 +166,34 @@
     ]
   },
   {
-    "date": "2026-04-05",
-    "date_display": "April 05, 2026",
-    "generated_at": "2026-04-05T09:12:19Z",
+    "date": "2026-04-06",
+    "date_display": "April 06, 2026",
+    "generated_at": "2026-04-06T09:25:15Z",
     "engine": "g4f",
     "model": "openai-fast",
     "mode": "ai",
-    "quote": "In the heat of battle, a single lantern can guide a lost spirit home.\n\nWhen gunfire paints innocence crimson, thunder reminds the land to whisper about peace.\n\nArtifacts of remembrance turn bruised earth into gardens of hope.\n\nThe winds of technology can whirl a world into new dreams, but truth must be a steady root.\n\nA lone rat that finds a landmine’s hidden heart shows that even the meek may be guardians.\n\nThe moon’s eye reflects more than the earth, reminding us that distance cannot erase shared breath.\n\nWhen the heart still seeks to write, the world listens with open ears.",
-    "quote_preview": "In the heat of battle, a single lantern can guide a lost spirit home.",
+    "quote": "The swift rescue of a lone wanderer shows that even the smallest hero can return to the earth after a storm of doubt.\n\nFor those who declare victory, the true test is whether the echoes of their triumph reverberate through the silence that follows.\n\nWhen a nation whispers of a deadly plot, the only truth that survives is that vigilance is the candle that does not burn without flame.\n\nAt Easter, a humble call for peace reminds us that the hardest battles are fought within one's own heart, not with swords.\n\nA statue of a rat guarding past wounds proves that courage can burrow beneath the earth and surface to remind us of unseen dangers.\n\nImages of the moon and earth caught by distant rovers carry a lesson: the farther one looks, the further the horizon, but the same star guides all.\n\nIn the quiet halls of age, a new deputy is the wind that whispers fresh breath into the old stone.",
+    "quote_preview": "The swift rescue of a lone wanderer shows that even the smallest hero can return to the earth after a storm of doubt.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "What we know so far about rescue of US airman in Iran",
-        "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+        "title": "How rescue of US airman in remote part of Iran unfolded",
+        "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Man charged over fatal shooting of baby in pram in New York",
-        "link": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
+        "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-        "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+        "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+        "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "German males under 45 may need military approval for long stays abroad",
-        "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
-        "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
+        "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+        "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -207,13 +202,33 @@
         "source": "BBC World"
       },
       {
-        "title": "Russian attack on Ukraine market kills five",
-        "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+        "title": "Artemis's stunning Moon pictures - science or holiday photos?",
+        "link": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-        "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+        "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
+        "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Man charged over fatal shooting of baby in pram in New York",
+        "link": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "German males under 45 may need military approval for long stays abroad",
+        "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+        "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Russian attack on Ukraine market kills five",
+        "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -222,28 +237,13 @@
         "source": "BBC World"
       },
       {
+        "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+        "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
         "title": "World's oldest leader to get a deputy for first time in 43-year rule",
         "link": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Australians told to continue Easter travel plans despite fuel shortages",
-        "link": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "French-owned ship passes through Strait of Hormuz",
-        "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "ICE wanted to build a detention centre -  this small farming town said no",
-        "link": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "The man who became one of India's greatest stage queens",
-        "link": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
