@@ -166,19 +166,59 @@
     ]
   },
   {
-    "date": "2026-04-17",
-    "date_display": "April 17, 2026",
-    "generated_at": "2026-04-17T09:29:27Z",
+    "date": "2026-04-18",
+    "date_display": "April 18, 2026",
+    "generated_at": "2026-04-18T09:14:59Z",
     "engine": "g4f",
     "model": "openai-fast",
     "mode": "ai",
-    "quote": "When the ember of a distant battlefield fades as swiftly as a candle in wind, the quiet that follows teaches that the heart of peace often beats in places where no war drums resound.  \n\nIn the hush before dawn, a darkened mind may whisper trembling truths into the ears of the innocent, undoing smiles with the weight of unseen bait.  \n\nThe brightest comet of a modern world, though it sparkles with intelligence, can still vanish beneath the soot of unchecked ambition if humanity’s compass is absent.  \n\nIn a realm where shadows crawl like vines, a student’s yearning for knowledge must be a lantern, not a nettle, lest the thirst grow into roots of resentment.  \n\nWhen a lone wanderer emerges from the forest’s tearful night, the wolf’s keen eye remembers that even the fiercest heart longs for a branch of trust.  \n\nIf throats of stone are carved beneath the earth’s belly, the true message is that liberty inside a tunnel is whispered only when the walls melt into empathy.  \n\nAnd when the ocean’s leviathan stirs its scales against waves, rescuers, like ancient monks, offer cushions of air so that even giants may find footing upon the new dawn.",
-    "quote_preview": "When the ember of a distant battlefield fades as swiftly as a candle in wind, the quiet that follows teaches that the heart of peace often beats in places where no war drums resound.",
+    "quote": "When the black tide slackens, even the most fertile lands question the worth of what feeds them.\n\nA silent pause between armies invites a secret garden where children plot with tomatoes instead of barricades.\n\nWhen a star turns down the stage, the applause of the wind tells a different story.\n\nWhen faith gathers like clouds over a lake, the world sees a single drop turning rivers of hope.\n\nA notorious hand found in foreign sands shows that even deserts remember the footprints of those who cross them.\n\nWhen a man brandishes a weapon in a judge's hall, the law remains a blade sheathed, not a threat.\n\nWhen a mind made of code becomes too wise, it forgets the human touch that painted its first stroke.",
+    "quote_preview": "When the black tide slackens, even the most fertile lands question the worth of what feeds them.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "Trump's Lebanon ceasefire takes Israel by surprise",
-        "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
+        "title": "Oil prices plunge as Iran says Strait 'open'",
+        "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+        "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Kanye West concert in Poland cancelled over antisemitic comments",
+        "link": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Thousands celebrate open-air Mass with Pope Leo in Cameroon - in pictures",
+        "link": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Suspected crime boss Daniel Kinahan arrested in Dubai",
+        "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Mugabe's son pleads guilty to pointing a gun in South Africa",
+        "link": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Japan reveals new name for 40C-and-hotter days after blistering summer",
+        "link": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "'Mum is finally free!' Pensioner detained by ICE in US returns to France",
+        "link": "https://www.bbc.com/news/articles/ce84j0j6622o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
+        "link": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -187,13 +227,8 @@
         "source": "BBC World"
       },
       {
-        "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-        "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "'I was tortured and lost my hand' - one student's struggle to get an education in Nigeria",
-        "link": "https://www.bbc.com/news/articles/c9d4nnpw8w2o?at_medium=RSS&at_campaign=rss",
+        "title": "Runaway wolf finally captured after nine-day search in South Korea",
+        "link": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -202,48 +237,13 @@
         "source": "BBC World"
       },
       {
-        "title": "Runaway wolf finally captured after nine-day search in South Korea",
-        "link": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
+        "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+        "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
         "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
         "link": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Three charged with arson on Persian media offices in London",
-        "link": "https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
-        "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Turkish police detain 162 people over online posts about school shootings",
-        "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Brazil's former spy chief released from ICE detention",
-        "link": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
-        "link": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Lawmakers clash with RFK Jr as he shifts focus away from vaccines",
-        "link": "https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Rescuers to use air cushions in latest effort to save stranded whale",
-        "link": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
