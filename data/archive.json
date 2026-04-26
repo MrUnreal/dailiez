@@ -166,29 +166,64 @@
     ]
   },
   {
-    "date": "2026-04-25",
-    "date_display": "April 25, 2026",
-    "generated_at": "2026-04-25T09:16:59Z",
+    "date": "2026-04-26",
+    "date_display": "April 26, 2026",
+    "generated_at": "2026-04-26T09:19:06Z",
     "engine": "g4f",
-    "model": "openai-fast",
+    "model": "openai",
     "mode": "ai",
-    "quote": "When unity is pledged without a steadfast wind, the banners flutter but lack a faithful compass.  \n\nSovereignty is as fragile as a pearl; to guard it you must trust in mutual respect rather than mere edict.  \n\nA forgotten watch on a mountain’s heart is the silent scream that echoes long into the valley below.  \n\nA single handshake with a wise king may be the first breath of change, yet the wind of history still guides the true path.  \n\nSurvival without the horizon is but a silent boat; the sea will reveal its depths regardless of where the sails are tacked.  \n\nWhen a sloth mourns before its grand reveal, the forest remembers that every living creature is subject to the tide of fate.  \n\nThe sword of justice sharpens itself in the fire of integrity, yet it will not swing until the heart speaks honestly.",
-    "quote_preview": "When unity is pledged without a steadfast wind, the banners flutter but lack a faithful compass.",
+    "quote": "When a banquet echoes with thunder, the humblest observer still recognizes that peace must rise from silence.  \n\nEven the mightiest mountain does not choose its stones; the wind decides the path.  \n\nThe most powerful hands wield iron only so long as they still carry a gentle heart within their grip.  \n\nFreedom, like a bird freed from a cage, remains only as long as the wind feels unbound.  \n\nWhen the earth mourns a slow creature, it reminds us that kindness grows in the stillness of stone.  \n\nThe map of a battlefield made of ink is far more fragile than one carved in the heart of stone.  \n\nA leader who lifts the fallen does not build towers of stone; he builds bridges of light.",
+    "quote_preview": "When a banquet echoes with thunder, the humblest observer still recognizes that peace must rise from silence.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-        "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+        "title": "What it was like in the room as shots rang out at correspondents' dinner",
+        "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-        "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+        "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-        "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+        "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+        "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Armed groups launch coordinated attacks across Mali",
+        "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+        "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+        "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+        "link": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+        "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Thirty-one sloths die in Florida before opening of attraction",
+        "link": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Seven dead in major Russian attack on Ukraine",
+        "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -197,53 +232,18 @@
         "source": "BBC World"
       },
       {
-        "title": "Epstein survivor: Meeting the King would be a 'grand step'",
-        "link": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "China car giant BYD says it can thrive without US",
-        "link": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "31 sloths die in Florida before opening of attraction",
-        "link": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
         "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
         "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US justice department drops probe into Fed chairman Jerome Powell",
-        "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "US to allow firing squads, gas, and electrocution for federal executions",
+        "title": "US to allow firing squads, gas and electrocution for federal executions",
         "link": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-        "link": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
-        "link": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Pirates hijack oil tanker off the coast of Somalia",
-        "link": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Mandelson under formal investigation by EU's anti-fraud office",
-        "link": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss",
+        "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+        "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
