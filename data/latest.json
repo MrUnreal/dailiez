@@ -1,22 +1,67 @@
 {
-  "date": "2026-04-26",
-  "date_display": "April 26, 2026",
-  "generated_at": "2026-04-26T09:19:06Z",
+  "date": "2026-04-27",
+  "date_display": "April 27, 2026",
+  "generated_at": "2026-04-27T09:43:04Z",
   "engine": "g4f",
-  "model": "openai",
+  "model": "openai-fast",
   "mode": "ai",
-  "quote": "When a banquet echoes with thunder, the humblest observer still recognizes that peace must rise from silence.  \n\nEven the mightiest mountain does not choose its stones; the wind decides the path.  \n\nThe most powerful hands wield iron only so long as they still carry a gentle heart within their grip.  \n\nFreedom, like a bird freed from a cage, remains only as long as the wind feels unbound.  \n\nWhen the earth mourns a slow creature, it reminds us that kindness grows in the stillness of stone.  \n\nThe map of a battlefield made of ink is far more fragile than one carved in the heart of stone.  \n\nA leader who lifts the fallen does not build towers of stone; he builds bridges of light.",
-  "quote_preview": "When a banquet echoes with thunder, the humblest observer still recognizes that peace must rise from silence.",
+  "quote": "When a single bullet mutates a crowd’s chatter into echoing silence, remember that the most resonant calm is the pause between heartbeats.  \n\nOil’s ascent flares like a dragon’s breath, yet even the fiercest flame learns that new life grows from its own ember.  \n\nA drone may survey horizons, yet the true battle roars within the quiet chambers of the soul.  \n\nWhere a well becomes a battleground, the water teaches that the strength of a river lies in the respect of its tributaries.  \n\nEven a king’s guarded path crumbles when the forest of trust shifts its shadows.  \n\nWhen a child fades from the horizon, the world tilts like a lantern awaiting the return of its flame.  \n\nA brand that dares the giants does so by walking its own steady trail, as stone shapes a river over time.",
+  "quote_preview": "When a single bullet mutates a crowd’s chatter into echoing silence, remember that the most resonant calm is the pause between heartbeats.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "What it was like in the room as shots rang out at correspondents' dinner",
-      "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+      "title": "Suspected gunman at Washington press dinner identified as 31-year-old Californian",
+      "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "title": "Oil prices rise as US-Iran peace talks stall",
+      "link": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+      "link": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "At least 42 killed in Chad after water well dispute escalates",
+      "link": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Pirates seize another vessel off Somali coast as threat level increased",
+      "link": "https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Trump says King will be 'very safe' during US visit after security talks",
+      "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Mali defence minister killed as country hit by wave of rebel attacks",
+      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Missing 5-year-old girl likely abducted from Outback home, police say",
+      "link": "https://www.bbc.com/news/articles/cgrlr18e29ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Death toll in Colombia highway bus bomb attack rises to 20",
+      "link": "https://www.bbc.com/news/articles/ckgx5kyyj8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "French teen who licked vending machine straw faces jail in Singapore",
+      "link": "https://www.bbc.com/news/articles/cjw8w849g6go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
@@ -25,58 +70,13 @@
       "source": "BBC World"
     },
     {
-      "title": "Armed groups launch coordinated attacks across Mali",
-      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "title": "The Chinese sports brand taking on Nike and Adidas",
+      "link": "https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
-      "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
-      "link": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
-      "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Thirty-one sloths die in Florida before opening of attraction",
-      "link": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Seven dead in major Russian attack on Ukraine",
-      "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
-      "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
-      "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "US to allow firing squads, gas and electrocution for federal executions",
-      "link": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada's Carney has enjoyed a long political honeymoon. Now comes the test",
+      "link": "https://www.bbc.com/news/articles/c70d249rd0go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
