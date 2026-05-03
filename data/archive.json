@@ -166,24 +166,49 @@
     ]
   },
   {
-    "date": "2026-05-02",
-    "date_display": "May 02, 2026",
-    "generated_at": "2026-05-02T09:23:07Z",
+    "date": "2026-05-03",
+    "date_display": "May 03, 2026",
+    "generated_at": "2026-05-03T09:29:21Z",
     "engine": "g4f",
-    "model": "openai-fast",
+    "model": "openai",
     "mode": "ai",
-    "quote": "Even the most thunderous footsteps of war can become a quiet breeze for the patient mind.\n\nWhen a ceasefire is carved from words, its true power is measured by the silence that follows.\n\nThe smallest creatures seeking shelter teach that even stone walls have unseen cracks.\n\nIf a bird named Spirit cannot find a safe place to fly, it reminds us how fragile freedom can be.\n\nThose who claim to wield the sword of justice first must learn the ancient art of listening.\n\nThe greatest victories rise when compassion swims beneath the surface of discord.\n\nA single ember of kindness can light a blaze that outlasts even the fiercest storm.",
-    "quote_preview": "Even the most thunderous footsteps of war can become a quiet breeze for the patient mind.",
+    "quote": "A nation that trims its own ranks may find its silence echoes louder than an angry drum in a rival’s camp.  \n\nWhen a fortress is tested only by fire, the mortar between its stones is hardened by the fiercest heat it never faced.  \n\nThe sly river of signals that",
+    "quote_preview": "A nation that trims its own ranks may find its silence echoes louder than an angry drum in a rival’s camp.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-        "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+        "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+        "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-        "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+        "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+        "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+        "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
+        "link": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Huge crowd attends free Shakira Copacabana beach concert",
+        "link": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+        "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+        "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -192,18 +217,23 @@
         "source": "BBC World"
       },
       {
-        "title": "Spirit Airlines shutting down after rescue talks collapse",
-        "link": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
+        "link": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
-        "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+        "title": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
+        "link": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Australia wants to become the first country to eliminate a cancer - can it?",
-        "link": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+        "title": "US Supreme Court asked to restore abortion pill access",
+        "link": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+        "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -212,38 +242,8 @@
         "source": "BBC World"
       },
       {
-        "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-        "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "US court limits mail-order access to abortion pill mifepristone",
-        "link": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
-        "link": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
-        "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Turkish police arrest more than 500 people at May Day rallies",
-        "link": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Israeli police arrest man after nun attacked in Jerusalem",
-        "link": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
-        "link": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+        "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
