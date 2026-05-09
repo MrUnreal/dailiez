@@ -166,19 +166,64 @@
     ]
   },
   {
-    "date": "2026-05-08",
-    "date_display": "May 08, 2026",
-    "generated_at": "2026-05-08T09:30:21Z",
+    "date": "2026-05-09",
+    "date_display": "May 09, 2026",
+    "generated_at": "2026-05-09T09:29:50Z",
     "engine": "g4f",
     "model": "openai-fast",
     "mode": "ai",
-    "quote": "A single spark in the sea of agreements can ignite either the warmth of peace or the tempest of war.  \n\nWhen a nation throws a stone into the well of its own reputation, the ripple speaks louder than the silence of its people.  \n\nWhen a land is haunted by unseen bats, the people learn that the hush of caution may be swifter than a warning gong.  \n\nThe drumbeats of the many echo louder than a ruler's decree, yet the echo may silence only those who learn to hear against the tide.  \n\nCloser than a stone, a private gathering holds sway over a nation's fate, for quiet words spun in dim rooms ripple across oceans.  \n\nWhen history is rewritten by a blank pen, the truth slumbers until the wind of conscience bares what remains hidden.  \n\nA child born of miracle's seed finds a companion in the sky, proving that patience, like water, shapes even stone into blossoms.",
-    "quote_preview": "A single spark in the sea of agreements can ignite either the warmth of peace or the tempest of war.",
+    "quote": "When one nation tills the field of arms, other minds grow quiet, sensing that the soil of peace is hidden beneath the blades of guns.\n\nThe ocean keeps its secrets in drifts of sludge and sirens, yet the bravest scholars learn that the most valuable treasure lies beneath a quiet horizon.\n\nA shadow over a volcano reminds us that the earth’s temper is as old as time, and those who dismiss its warning treat the world not as a garden, but as a firecracker.\n\nThe sky offers itself to the wandering eyes bent on birds, yet what most eyes miss, those tempered by patience see as a lesson in moving beyond the glare.\n\nA silent cyber storm rattles the nearest stone in the digital temple, showing that even in halls of stone, electricity can shake the foundation.\n\nA vessel of cloud may carry more than cargo; it can carry an entire council of ghosts that challenge the map drawn by those who fear what lies beyond.\n\nThe river of oil that flows from one homeland to another is a bridge built with fire; those who set its lamps may choose the path of peace or the peril of flames.",
+    "quote_preview": "When one nation tills the field of arms, other minds grow quiet, sensing that the soil of peace is hidden beneath the blades of guns.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-        "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+        "title": "Putin denounces Nato at scaled back Victory Day parade",
+        "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Iran accuses US of 'reckless military adventure'",
+        "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
+        "link": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+        "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Hungary's new PM to be sworn in during 'regime change' party",
+        "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "International cyber attack disrupts swathe of universities and schools",
+        "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Greece examines mystery naval drone found in Ionian Sea",
+        "link": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Australian by-election a litmus test for right-wing One Nation Party",
+        "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Three dead after volcano erupts on Indonesian island",
+        "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
+        "link": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -187,63 +232,18 @@
         "source": "BBC World"
       },
       {
-        "title": "Third British national has suspected hantavirus infection, UK government says",
-        "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa president faces call to resign after court ruling",
+        "link": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
-        "link": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
-        "link": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
+        "title": "US jet fuel could be used in Europe to ease possible shortages",
+        "link": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
         "title": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
         "link": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
-        "link": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "World Cup fans in China and India face broadcast uncertainty",
-        "link": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
-        "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "US to revoke passports of parents with child support debt",
-        "link": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Ethiopian woman's joy at rare quintuplets after 12 years trying for a baby",
-        "link": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
-        "link": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
-        "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Rwandan singer dies as he was being released from prison",
-        "link": "https://www.bbc.com/news/articles/cevpxn0ddp9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
