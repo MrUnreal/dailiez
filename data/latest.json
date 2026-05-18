@@ -1,27 +1,52 @@
 {
-  "date": "2026-05-17",
-  "date_display": "May 17, 2026",
-  "generated_at": "2026-05-17T09:32:03Z",
+  "date": "2026-05-18",
+  "date_display": "May 18, 2026",
+  "generated_at": "2026-05-18T10:26:10Z",
   "engine": "g4f",
-  "model": "openai",
+  "model": "openai-fast",
   "mode": "ai",
-  "quote": "An illness that travels unseen teaches that the strongest walls are built from kindness, not stone.  \n\nIn the dance of counter‑forces, one push may ignite another’s fire; yet balance lies in the breath held between.  \n\nA land that declares its own name is like a song that refuses to be silenced by a crowd; the true note is heard only by the heart.  \n\nWhen a machine seeks to scatter shadows, the humans who look up at the night learn that light can still find its way through the tiniest cracks.  \n\nThe road that snarls at its own pace reminds us: to move forward, one must first mend the path it has trod.  \n\nIn the depth of caves, echoes can drown the call of a lone voice; still, the mountain remembers that every footfall leaves a story on the rock.  \n\nA jagged glass mirrors the faces that use it; the harder the shards, the clearer the reflection.",
-  "quote_preview": "An illness that travels unseen teaches that the strongest walls are built from kindness, not stone.",
+  "quote": "Even as the grandfather clock counts the hours of conflict, the calm mind learns its own rhythm beyond the rustle of voices.  \n\nA silent virus is no louder than a thief in the night, yet its footprints mark the garden the most trusted.  \n\nWhen the price of the wind’s fuel rises, the winding road becomes a silent river, and the traveler",
+  "quote_preview": "Even as the grandfather clock counts the hours of conflict, the calm mind learns its own rhythm beyond the rustle of voices.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-      "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
-      "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "title": "At least six Americans exposed to Ebola in DR Congo, US media report",
+      "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Taiwan insists it is independent after Trump warning",
-      "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
+      "link": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Strike over high fuel prices paralyses transport in Kenya",
+      "link": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Driver of crashed train tested positive for drugs, Thai police say",
+      "link": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "How worrying is the Ebola outbreak in DR Congo?",
+      "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Moment two fighter jets collide mid-air at US air show",
+      "link": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
@@ -30,53 +55,28 @@
       "source": "BBC World"
     },
     {
+      "title": "Escaped tiger shot by German police after attacking man",
+      "link": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
+      "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "'Everest Man' and 'Mountain Queen' break own records scaling world's tallest peak",
+      "link": "https://www.bbc.com/news/articles/c3927ejpj4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
+      "link": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
       "title": "Man drives car into pedestrians in Italy, injuring eight",
       "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
-      "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Whale found dead near Danish island after German rescue operation",
-      "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
-      "link": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Canadian from hantavirus-hit cruise ship tests positive",
-      "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
-      "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "US planning to charge ex-Cuban leader Raúl Castro",
-      "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-      "link": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-      "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
