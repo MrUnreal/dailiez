@@ -1,37 +1,72 @@
 {
-  "date": "2026-05-19",
-  "date_display": "May 19, 2026",
-  "generated_at": "2026-05-19T10:17:15Z",
+  "date": "2026-05-20",
+  "date_display": "May 20, 2026",
+  "generated_at": "2026-05-20T10:05:58Z",
   "engine": "g4f",
   "model": "openai-fast",
   "mode": "ai",
-  "quote": "The silent spread of a hidden plague shows that a whisper in the dark can grow louder than thunder.\n\nYouthful hearts that flare with hatred cannot kindle a lasting kingdom; an ember alone will smolder and burn the bearer.\n\nA wise soul who retracts from war’s summons releases allies to shoulder the weight like a lantern slipped from a trembling hand.\n\nDesperate measures may force a father to trade his progeny for survival, yet the act teaches that love is the more precious trade.\n\nIn tumultuous times the delicate petals of innocence are often the first to bruise, reminding us that humanity suffers before the sword.\n\nWhen a lone soul slips into a cavern’s embrace, their recovery tells that the courage to explore sometimes pays in grief, not in child’s laughter.\n\nEven the strongest bond of distant empires gleams faintly in the moment of crisis, proving that true unity is a fragile thread rather than a visible stone.",
-  "quote_preview": "The silent spread of a hidden plague shows that a whisper in the dark can grow louder than thunder.",
+  "quote": "In the cold northern winds, a lone envoy can find friendship only by listening to the silence before speaking.  \n\nThe sharpest blade of justice must be forged in the quiet courage of those who would protect, not conquer.  \n\nWhen a river floods the heart, its source remembers that even the smallest droplet can shape the world.  \n\nLike a lantern swallowed by darkness, one misstep can scatter light into endless shadows.  \n\nA silent mountain keeps its secrets only until someone chooses to smile at the summit.  \n\nTrue strength is measured not by the roar of clashing swords, but by the quiet steadiness of one's breath.  \n\nThe weight of a single stone dropped into a vast ocean reminds us that even the smallest action may ripple across time.",
+  "quote_preview": "In the cold northern winds, a lone envoy can find friendship only by listening to the silence before speaking.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+      "link": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+      "link": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+      "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Woman dies after falling into uncovered New York City manhole",
+      "link": "https://www.bbc.com/news/articles/cy02pzxejyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Son of Mango boss arrested over father's fatal fall from cliff",
+      "link": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
+      "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Key people smuggler arrested after BBC uncovered identity",
+      "link": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Nigeria arrests former minister in hiding after corruption conviction",
+      "link": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
+      "link": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Estonia says Nato jet shot down drone over its territory",
+      "link": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Singer Patrick Bruel denies wave of sexual assault allegations in France",
+      "link": "https://www.bbc.com/news/articles/cjwpyzwn7epo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
       "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-      "link": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
-      "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Two dead in Spain shooting, with babies reportedly among injured",
-      "link": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
@@ -40,43 +75,8 @@
       "source": "BBC World"
     },
     {
-      "title": "What really holds China and Russia together",
-      "link": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Jackson Pollock painting sells for record $181m at auction",
-      "link": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Tasmanian government apologises over stolen body parts scandal",
-      "link": "https://www.bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
-      "link": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
-      "link": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
-      "link": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Shakira wins £50m tax refund from Spanish government",
-      "link": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
+      "title": "Uncontrolled California wildfires seen from space",
+      "link": "https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
