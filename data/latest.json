@@ -1,82 +1,82 @@
 {
-  "date": "2026-05-23",
-  "date_display": "May 23, 2026",
-  "generated_at": "2026-05-23T09:34:55Z",
+  "date": "2026-05-24",
+  "date_display": "May 24, 2026",
+  "generated_at": "2026-05-24T09:34:51Z",
   "engine": "g4f",
-  "model": "openai",
+  "model": "openai-fast",
   "mode": "ai",
-  "quote": "When a mine falls silent beneath the earth, its loss is louder than any echo of triumph.  \n\nThe roar of a missile over a student hall reminds us that vengeance is a flame that shields no one but burns the past.  \n\nA rocket that dreams of stars must first honor the gravity that keeps its feet on the ground.  \n\nAllyship among great nations is a braided rope; once a strand frays, the whole sways.  \n\nA disease’s threat may feel like an invisible storm—careful one must read the wind before heeding the clouds.  \n\nWhen a nation casts off its guiding hand, the remaining banners must learn anew to catch the wind.  \n\nA shipyard’s fury teaches that even the bravest of sparks may falter when touched by the sparks they attempt to tame.",
-  "quote_preview": "When a mine falls silent beneath the earth, its loss is louder than any echo of triumph.",
+  "quote": "When thunder rips the sky, the whispers of trees remember that silence is the heir of thunder.  \n\nThe sharpest blade is forged in the quiet of rising water, yet the river keeps its pace as it silently shapes stone.  \n\nA sudden flame can swallow fields, yet the seed that survives does so by knowing the sky's breath will not always blaze.  \n\nIn a relay of danger, the swiftest runner may become the slowest, for haste without wisdom is a dance upon broken glass.  \n\nWhen a beast roars beyond borders, the calm pond reflects that courage is not found in the roar alone.  \n\nThe weight of a storm‑tide falls on the cliff like memories, reminding those above that resilience is a lineage of breath.  \n\nThe path that opens during the night of despair still brightens with the lanterns of those who travel beyond the black.",
+  "quote_preview": "When thunder rips the sky, the whispers of trees remember that silence is the heir of thunder.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "At least 82 killed in Chinese coal mine explosion",
       "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "F1 great Prost 'injured as masked gang raid home'",
+      "link": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
+      "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Rubio meets Modi during India visit with energy high on agenda",
+      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
       "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Ebola risk raised to 'very high' in DR Congo",
-      "link": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
-      "link": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Senegal's president sacks prime minister Sonko after months of tensions",
-      "link": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Rubio visits India to sell energy as Iran oil shock persists",
-      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "link": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
-      "link": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
-      "link": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "More than 40,000 Californians evacuated due to chemical tank leak",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
