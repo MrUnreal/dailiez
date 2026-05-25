@@ -166,24 +166,29 @@
     ]
   },
   {
-    "date": "2026-05-24",
-    "date_display": "May 24, 2026",
-    "generated_at": "2026-05-24T09:34:51Z",
+    "date": "2026-05-25",
+    "date_display": "May 25, 2026",
+    "generated_at": "2026-05-25T10:29:39Z",
     "engine": "g4f",
-    "model": "openai-fast",
+    "model": "openai",
     "mode": "ai",
-    "quote": "When thunder rips the sky, the whispers of trees remember that silence is the heir of thunder.  \n\nThe sharpest blade is forged in the quiet of rising water, yet the river keeps its pace as it silently shapes stone.  \n\nA sudden flame can swallow fields, yet the seed that survives does so by knowing the sky's breath will not always blaze.  \n\nIn a relay of danger, the swiftest runner may become the slowest, for haste without wisdom is a dance upon broken glass.  \n\nWhen a beast roars beyond borders, the calm pond reflects that courage is not found in the roar alone.  \n\nThe weight of a storm‑tide falls on the cliff like memories, reminding those above that resilience is a lineage of breath.  \n\nThe path that opens during the night of despair still brightens with the lanterns of those who travel beyond the black.",
-    "quote_preview": "When thunder rips the sky, the whispers of trees remember that silence is the heir of thunder.",
+    "quote": "A heart that yearns for quick peace must learn that the river still runs its own course, even when its currents change with the wind.\n\nOil prices glide like a cloud, for they rise not when the sky brightens, but when the hopeful heart mistakes fog for freedom.\n\nWhen a child leaves the shadows of forbidden learning, she carries the illumination of a single word that no wall can contain.\n\nEven a single fallen soldier is the echo of countless unseen drums striking in a forgotten battlefield.\n\nThe roar of riot police in the streets of dissent is louder than the quiet murmur of future generations.\n\nA train pierced by a sudden blast proves that even great iron can surprise, for the strongest rails quake at the loudest silence.\n\nWhen toxic water drains into an open field, the healer must trek through invisible waves, for the greatest danger often wears a silent face.",
+    "quote_preview": "A heart that yearns for quick peace must learn that the river still runs its own course, even when its currents change with the wind.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "Suspect killed after opening fire on Secret Service near White House",
-        "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "title": "Deal with US not imminent, Iran says",
+        "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-        "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+        "title": "Oil prices slide on hopes of US-Iran peace deal",
+        "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+        "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -192,8 +197,8 @@
         "source": "BBC World"
       },
       {
-        "title": "Man killed in shark attack off Australia's north-east coast",
-        "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+        "title": "Turkish riot police storm opposition offices after leaders ousted",
+        "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -202,48 +207,43 @@
         "source": "BBC World"
       },
       {
+        "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
+        "link": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Suspect killed after opening fire on Secret Service near White House",
+        "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Ebola outbreak poses massive challenges, warns nurse",
+        "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Man killed in shark attack off Australia's north-east coast",
+        "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "One killed and many feared trapped under collapsed building in Philippines",
+        "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+        "link": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
         "title": "California declares emergency as fire crews race to contain toxic leak",
         "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "At least 82 killed in Chinese coal mine explosion",
-        "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
         "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
         "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-        "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "F1 great Prost 'injured as masked gang raid home'",
-        "link": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
-        "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Rubio meets Modi during India visit with energy high on agenda",
-        "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-        "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-        "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
