@@ -1,82 +1,82 @@
 {
-  "date": "2026-05-25",
-  "date_display": "May 25, 2026",
-  "generated_at": "2026-05-25T10:29:39Z",
+  "date": "2026-05-26",
+  "date_display": "May 26, 2026",
+  "generated_at": "2026-05-26T10:22:08Z",
   "engine": "g4f",
-  "model": "openai",
+  "model": "openai-fast",
   "mode": "ai",
-  "quote": "A heart that yearns for quick peace must learn that the river still runs its own course, even when its currents change with the wind.\n\nOil prices glide like a cloud, for they rise not when the sky brightens, but when the hopeful heart mistakes fog for freedom.\n\nWhen a child leaves the shadows of forbidden learning, she carries the illumination of a single word that no wall can contain.\n\nEven a single fallen soldier is the echo of countless unseen drums striking in a forgotten battlefield.\n\nThe roar of riot police in the streets of dissent is louder than the quiet murmur of future generations.\n\nA train pierced by a sudden blast proves that even great iron can surprise, for the strongest rails quake at the loudest silence.\n\nWhen toxic water drains into an open field, the healer must trek through invisible waves, for the greatest danger often wears a silent face.",
-  "quote_preview": "A heart that yearns for quick peace must learn that the river still runs its own course, even when its currents change with the wind.",
+  "quote": "Even when thunderous blasts pierce the heavens, the earth remains patient, telling those who fight for glory that the wind will gather the mirage of conquest.\n\nIn the gardens of learning, a single dishonest seed rots the boughs of all children, a reminder that kindness is the strongest fertilizer.\n\nThose who hoard fear in boats and homes may find the tide turns, for the river of compassion is deeper than any missile.\n\nA single spark of death among the wise may flicker long after the flame, but the music it birthed will hum in the wind if the spirit stays unbound.\n\nWhen trucks of strangers traverse sacred paths, they do not forget that even a stone can carry the weight of pilgrimage if the heart is mindful.\n\nIn the depth of a flooded cave, life whispers all that survived is both a blessing of the stillness and a lesson that unity is a buoy.\n\nEven the straightest of lines—drones or bullets—can misstep when light chases sound, and the consequence is a humble lesson in balance.",
+  "quote_preview": "Even when thunderous blasts pierce the heavens, the earth remains patient, telling those who fight for glory that the wind will gather the mirage of conquest.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "Deal with US not imminent, Iran says",
-      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
+      "link": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Turkish riot police storm opposition offices after leaders ousted",
-      "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "title": "China executes man for murdering prominent gaming tycoon",
+      "link": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "title": "Wave of child abuse cases shakes schools in Paris",
+      "link": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
-      "link": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
+      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
+      "link": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "title": "Jazz legend Sonny Rollins dies aged 95",
+      "link": "https://www.bbc.com/news/articles/c1e224dwz18o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Ebola outbreak poses massive challenges, warns nurse",
-      "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens of drones crash into Sydney harbour after light show glitch",
+      "link": "https://www.bbc.com/news/articles/c9d330wqq2zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
+      "link": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "One killed and many feared trapped under collapsed building in Philippines",
-      "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
+      "link": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
-      "link": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
+      "link": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "California declares emergency as fire crews race to contain toxic leak",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "title": "Three killed in Uganda after crashing into elephant",
+      "link": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "title": "Cambodia's former opposition leader receives royal pardon for 27-year sentence",
+      "link": "https://www.bbc.com/news/articles/cm2ppv1r3xzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
