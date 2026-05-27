@@ -1,82 +1,82 @@
 {
-  "date": "2026-05-26",
-  "date_display": "May 26, 2026",
-  "generated_at": "2026-05-26T10:22:08Z",
+  "date": "2026-05-27",
+  "date_display": "May 27, 2026",
+  "generated_at": "2026-05-27T10:23:15Z",
   "engine": "g4f",
-  "model": "openai-fast",
+  "model": "openai",
   "mode": "ai",
-  "quote": "Even when thunderous blasts pierce the heavens, the earth remains patient, telling those who fight for glory that the wind will gather the mirage of conquest.\n\nIn the gardens of learning, a single dishonest seed rots the boughs of all children, a reminder that kindness is the strongest fertilizer.\n\nThose who hoard fear in boats and homes may find the tide turns, for the river of compassion is deeper than any missile.\n\nA single spark of death among the wise may flicker long after the flame, but the music it birthed will hum in the wind if the spirit stays unbound.\n\nWhen trucks of strangers traverse sacred paths, they do not forget that even a stone can carry the weight of pilgrimage if the heart is mindful.\n\nIn the depth of a flooded cave, life whispers all that survived is both a blessing of the stillness and a lesson that unity is a buoy.\n\nEven the straightest of lines—drones or bullets—can misstep when light chases sound, and the consequence is a humble lesson in balance.",
-  "quote_preview": "Even when thunderous blasts pierce the heavens, the earth remains patient, telling those who fight for glory that the wind will gather the mirage of conquest.",
+  "quote": "In the echo of city stone, the loudest beat is the one that ends without silence.\n\nWhen a flame burns all the stars, the night must choose to be still or to rise.\n\nA moon that whispers to the earth demands the same gentle patience from the wandering soul.\n\nIn a valley where borders shift like water, compassion is the only stone that holds fast.\n\nWords that weight like stone can crush fledgling hope; therefore we lift them with patience.\n\nWhen a great beast roars upon the sky, the quiet path lies in the quiet corners below.\n\nA garden that tests outsiders only for fear of flood is one that has missed the spring of unity.",
+  "quote_preview": "In the echo of city stone, the loudest beat is the one that ends without silence.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "US launches new strikes on Iran, targeting missile sites and boats",
-      "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "title": "Nasa unveils next steps to build permanent Moon base",
+      "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
-      "link": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+      "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "China executes man for murdering prominent gaming tycoon",
-      "link": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
+      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+      "link": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Wave of child abuse cases shakes schools in Paris",
-      "link": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
+      "title": "One killed and nine missing after chemical explosion at US paper mill",
+      "link": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
-      "link": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss",
+      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
+      "link": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Jazz legend Sonny Rollins dies aged 95",
-      "link": "https://www.bbc.com/news/articles/c1e224dwz18o?at_medium=RSS&at_campaign=rss",
+      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+      "link": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Dozens of drones crash into Sydney harbour after light show glitch",
-      "link": "https://www.bbc.com/news/articles/c9d330wqq2zo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
+      "link": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
-      "link": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
+      "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
+      "link": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
-      "link": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+      "title": "First Ghanaians set to be repatriated from South Africa over anti-immigrant protests",
+      "link": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
-      "link": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
+      "title": "Major film union in India calls for boycott of superstar Ranveer Singh",
+      "link": "https://www.bbc.com/news/articles/c0q2y01jqk9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Three killed in Uganda after crashing into elephant",
-      "link": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
+      "link": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Cambodia's former opposition leader receives royal pardon for 27-year sentence",
-      "link": "https://www.bbc.com/news/articles/cm2ppv1r3xzo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
+      "link": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
