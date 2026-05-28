@@ -166,44 +166,74 @@
     ]
   },
   {
-    "date": "2026-05-27",
-    "date_display": "May 27, 2026",
-    "generated_at": "2026-05-27T10:23:15Z",
+    "date": "2026-05-28",
+    "date_display": "May 28, 2026",
+    "generated_at": "2026-05-28T10:25:24Z",
     "engine": "g4f",
-    "model": "openai",
+    "model": "openai-fast",
     "mode": "ai",
-    "quote": "In the echo of city stone, the loudest beat is the one that ends without silence.\n\nWhen a flame burns all the stars, the night must choose to be still or to rise.\n\nA moon that whispers to the earth demands the same gentle patience from the wandering soul.\n\nIn a valley where borders shift like water, compassion is the only stone that holds fast.\n\nWords that weight like stone can crush fledgling hope; therefore we lift them with patience.\n\nWhen a great beast roars upon the sky, the quiet path lies in the quiet corners below.\n\nA garden that tests outsiders only for fear of flood is one that has missed the spring of unity.",
-    "quote_preview": "In the echo of city stone, the loudest beat is the one that ends without silence.",
+    "quote": "In silence before dawn, a flame can swallow whole gardens; let us learn to water the roots unseen and never lean solely on outer light.  \n\nWhen a fist weighs more than a promise, the quiet is the only place left to heal the wound that barks louder than the mirror.  \n\nThe path of a drone over mountains is smoother than the boat that drifts on a river of human sorrow; still both can become a ripple that lifts or shatters.  \n\nA debate is a chess board where thoughts are pawns; we must move them with wisdom, lest we sacrifice the king to an unobserved fall.  \n\nThe venom of a soldier’s past habits may seep into the present like oil, clouding vision and cloak; cleanse it with truth, and the journey will be clear again.  \n\nEven the most enduring river does not keep its course if a stone is lodged in its bed; seek it ejected lest it alter the direction of your stride.  \n\nWhen a gnome of data missteps into the guild of knowledge, he finds the finest coin not worth the price of his own integrity.",
+    "quote_preview": "In silence before dawn, a flame can swallow whole gardens; let us learn to water the roots unseen and never lean solely on outer light.",
     "headline_count": 14,
     "headlines": [
+      {
+        "title": "Iran says it targeted American base after fresh US strikes",
+        "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Sixteen pupils killed in Kenya school fire",
+        "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
+        "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+        "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+        "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
+        "link": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Australia charges woman who returned from Syria with joining Islamic State",
+        "link": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+        "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Google worker charged with using internal data to make $1.2m on bets",
+        "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Five people found alive after week trapped in flooded Laos cave",
+        "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
       {
         "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
         "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-        "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Nasa unveils next steps to build permanent Moon base",
-        "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-        "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-        "link": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "One killed and nine missing after chemical explosion at US paper mill",
-        "link": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil prices jump after US launches new attacks on Iran",
+        "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -212,38 +242,8 @@
         "source": "BBC World"
       },
       {
-        "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
-        "link": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump-backed challenger beats veteran US senator in Texas primary",
-        "link": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
-        "link": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "First Ghanaians set to be repatriated from South Africa over anti-immigrant protests",
-        "link": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Major film union in India calls for boycott of superstar Ranveer Singh",
-        "link": "https://www.bbc.com/news/articles/c0q2y01jqk9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
-        "link": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
-        "link": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+        "title": "One killed and nine missing after chemical explosion at US paper mill",
+        "link": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
