@@ -166,29 +166,74 @@
     ]
   },
   {
-    "date": "2026-06-18",
-    "date_display": "June 18, 2026",
-    "generated_at": "2026-06-18T10:30:36Z",
+    "date": "2026-06-19",
+    "date_display": "June 19, 2026",
+    "generated_at": "2026-06-19T10:29:36Z",
     "engine": "g4f",
     "model": "openai-fast",
     "mode": "ai",
-    "quote": "A covenant drawn under fluorescent lights may turn to dust when the wind of truth rustles its own pages.\n\nThe echoes of distant artillery can make the earth itself pause, reminding us that even calm rivers can be broken by hidden stones.\n\nAirports are temples of motion where hope and threat are offered in equal measure, one trembling row after another on the altar of steel.\n\nWhen a floral bouquet lies dead in a parking lot, the scent of lilies hides the memory of a jagged blade.\n\nA nation's shield grows stronger only when it first knows the weight of its own armor against the thunder of inevitable storms.\n\nThe shackles of a nation’s prison bars do not silence the voice of the spirit; it waits, patient, to rise again like wind in the pine.\n\nIn the quiet of a besieged ward, a child’s breath jestingly whispers, \"I am still here\" amid a storm of doubters.",
-    "quote_preview": "A covenant drawn under fluorescent lights may turn to dust when the wind of truth rustles its own pages.",
+    "quote": "When a river trembles at a stone, its hidden depths lie beneath a surface that appears still.  \n\nA nation’s pulse quickens after conflict, yet the quiet song of peace rings most clear.  \n\nIn the eye of a storm, the longing for calm teaches that the fiercest winds hold the faintest light.  \n\nThe ruined city shows that power, poured from a single cup, poisons more than just the drinker.  \n\nHope’s jade glows only when hearts trade their pearls for prizes that fade like smoke.  \n\nYouth’s violent webs are woven by the oldest spider, revealing humility as its most delicate thread.  \n\nA kingdom built on shifting sand falls not by breeze but by the relentless tide of change.",
+    "quote_preview": "When a river trembles at a stone, its hidden depths lie beneath a surface that appears still.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "What's in the US-Iran agreement?",
-        "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+        "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+        "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+        "link": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "What Iran and US get from deal and why both could struggle to keep it",
+        "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
+        "link": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Zimbabwe MPs pass bill to extend president's time in power",
+        "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
         "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Gunfire and explosions heard at Niger capital's airport",
+        "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
         "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "In Trump's shadow, Vance becomes face of Iran deal",
+        "link": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+        "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
+        "link": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+        "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "British man dies in paragliding accident in Spain",
+        "link": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -197,53 +242,8 @@
         "source": "BBC World"
       },
       {
-        "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-        "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Lawyer of Uganda opposition figure Besigye charged with treason-related offence",
-        "link": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-        "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Iran sends tankers loaded with oil past US military blockade",
-        "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
-        "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
-        "link": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "The Ring and Lilo & Stitch actress Daveigh Chase dies aged 35",
-        "link": "https://www.bbc.com/news/articles/cd0m2mg949yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump says he will visit India as frosty relationship with Modi thaws",
-        "link": "https://www.bbc.com/news/articles/c621glv9vnqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "UN experts demand Iranians free Foremans",
-        "link": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Norway's crown princess undergoes successful lung transplant, palace says",
-        "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
+        "title": "Jury fails to reach verdict in Norwegian 'hitman' trial",
+        "link": "https://www.bbc.com/news/articles/cz6v1qw7d0no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
