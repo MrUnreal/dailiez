@@ -166,34 +166,64 @@
     ]
   },
   {
-    "date": "2026-06-19",
-    "date_display": "June 19, 2026",
-    "generated_at": "2026-06-19T10:29:36Z",
+    "date": "2026-06-20",
+    "date_display": "June 20, 2026",
+    "generated_at": "2026-06-20T10:00:55Z",
     "engine": "g4f",
     "model": "openai-fast",
     "mode": "ai",
-    "quote": "When a river trembles at a stone, its hidden depths lie beneath a surface that appears still.  \n\nA nation’s pulse quickens after conflict, yet the quiet song of peace rings most clear.  \n\nIn the eye of a storm, the longing for calm teaches that the fiercest winds hold the faintest light.  \n\nThe ruined city shows that power, poured from a single cup, poisons more than just the drinker.  \n\nHope’s jade glows only when hearts trade their pearls for prizes that fade like smoke.  \n\nYouth’s violent webs are woven by the oldest spider, revealing humility as its most delicate thread.  \n\nA kingdom built on shifting sand falls not by breeze but by the relentless tide of change.",
-    "quote_preview": "When a river trembles at a stone, its hidden depths lie beneath a surface that appears still.",
+    "quote": "When swords are traded for paper, silence may be the highest treaty.  \n\nIn the ashes of broken promises, truth blooms like a stubborn lotus.  \n\nA nation's aching lungs ask for compassion, for every heart trembles to the same rhythm.  \n\nWhen a feather falls, all lands hear the drum of shared sickness, for disease dares no borders.  \n\nA child who escorts a weary bird into a hospital proves that courage soars on curiosity’s wings.  \n\nIn quiet halls, a verdict can be both balm and blade, changing the quietest voice.  \n\nThe seeker who cleans the arena finds that true mastery lies not in the arena, but in the unclenched spirit.",
+    "quote_preview": "When swords are traded for paper, silence may be the highest treaty.",
     "headline_count": 14,
     "headlines": [
       {
-        "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
-        "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+        "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+        "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
-        "link": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+        "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+        "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "What Iran and US get from deal and why both could struggle to keep it",
-        "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+        "title": "US to stop funding HIV programmes in South Africa",
+        "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
-        "link": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
+        "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+        "link": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+        "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+        "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
+        "link": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
+        "link": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Morocco captain Achraf Hakimi to stand trial for rape",
+        "link": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -202,48 +232,18 @@
         "source": "BBC World"
       },
       {
-        "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-        "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+        "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+        "link": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-        "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+        "title": "Mangione's lawyers reverse course on psychiatric defence in state murder trial",
+        "link": "https://www.bbc.com/news/articles/c20y162gpm6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "In Trump's shadow, Vance becomes face of Iran deal",
-        "link": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-        "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
-        "link": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-        "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "British man dies in paragliding accident in Spain",
-        "link": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
-        "link": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Jury fails to reach verdict in Norwegian 'hitman' trial",
-        "link": "https://www.bbc.com/news/articles/cz6v1qw7d0no?at_medium=RSS&at_campaign=rss",
+        "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
+        "link": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World"
       }
     ]
