@@ -1,82 +1,82 @@
 {
-  "date": "2026-07-01",
-  "date_display": "July 01, 2026",
-  "generated_at": "2026-07-01T10:19:33Z",
+  "date": "2026-07-02",
+  "date_display": "July 02, 2026",
+  "generated_at": "2026-07-02T10:01:12Z",
   "engine": "g4f",
   "model": "openai-fast",
   "mode": "ai",
-  "quote": "Wealth that rises from the ether is like a dragon's breath—mysterious, fleeting, and leaving the soul thirsting.  \n\nA trembling ground can lift a babe from darkness, reminding us that courage walks beside even the smallest footstep.  \n\nWhen the scales of law turn, they weigh not only right but the echoes of a people's heart.  \n\nA crash that splinters the heavens above a city reveals that even iron clouds can be pierced by quiet resilience.  \n\nA wildfire that roars across a field is nature's call to stillness; only after its breath can the seed of renewal arise.  \n\nA bunker buried beneath history guards more memories than bricks, yet it leans toward the present whether it hovers or falls.  \n\nClinging to identity with the vigor of stone limits the spirit; a fragile leaf teaches that strength sprouts from softness.",
-  "quote_preview": "Wealth that rises from the ether is like a dragon's breath—mysterious, fleeting, and leaving the soul thirsting.",
+  "quote": "In the shadow of a great thunder, even quiet rivers echo the weight of unspoken grief.  \n\nA child in ruins learns that hope is the softest stone that can be carried through rubble.  \n\nThe world's largest windfall is a leaf in a storm—it appears immense until the breeze takes it away.  \n\nWhen a melody guards against desire, it sometimes ends humming its own temptation.  \n\nThe sharpest blade of power can become a nightshade when used to smother a winter cloud.  \n\nA path that travels from north to south reminds the wandering spirit that borders are as fleeting as lanterns in the wind.  \n\nIn the frenzy of joy, the body oft forgets that a steady breath is the truest celebration.",
+  "quote_preview": "In the shadow of a great thunder, even quiet rivers echo the weight of unspoken grief.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "title": "At least 13 killed in 'most massive' Russian attack on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-      "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+      "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
-      "link": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+      "title": "Did this AI anti-drug video make drugs look appealing?",
+      "link": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
-      "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+      "link": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
-      "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "title": "The US deported them to Venezuela - hours later earthquakes struck",
+      "link": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Anthropic says US lifts export ban on its advanced AI tools",
-      "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "title": "US blocks long-term renewal of North American trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-      "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Firefighters struggle to contain deadly Greek wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+      "title": "Four die in Mexico City World Cup celebrations",
+      "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-      "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian charged in Germany over Nord Stream blasts",
+      "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
+      "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
-      "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Couple scale Empire State Building, get engaged and are arrested",
+      "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
