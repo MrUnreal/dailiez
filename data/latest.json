@@ -1,82 +1,82 @@
 {
-  "date": "2026-07-14",
-  "date_display": "July 14, 2026",
-  "generated_at": "2026-07-14T10:28:51Z",
+  "date": "2026-07-15",
+  "date_display": "July 15, 2026",
+  "generated_at": "2026-07-15T10:41:06Z",
   "engine": "g4f",
   "model": "openai-fast",
   "mode": "ai",
-  "quote": "When a door stays shut while flame encroaches, the fire consumes the very trust it guarded.  \n\nWhen a heart cannot be contained within a plane's cabin, destiny lifts its wings and lets it fall.  \n\nA missile striking an ally’s dawn reminds us that true strength often lies in the pause before the echo.  \n\nTwenty‑five years of hidden images ripple into the present, proof that the past can still chill our modern waters.  \n\nA revision of a throne shows that form only endures when the fabric of consensus",
-  "quote_preview": "When a door stays shut while flame encroaches, the fire consumes the very trust it guarded.",
+  "quote": "Bridges endure when they are built by the steady hand of truth, not by the frantic beat of broken promises.  \n\nA narrow strait that demands a toll of silence will only be king until the wind of reason breathes through it.  \n\nArmed drums resound on foreign soil, yet only a quiet heart can still the echo of their steel.  \n\nWhen the economy's roots are sown in swift wind, the trees will bend, for steady growth is a patient tree, not a reckless reed.  \n\nA court that turns away a plant’s plea to be law reminds us that nature chooses when to bloom, not the law’s rapid decree.  \n\nThe crash of a great wing leaves the earth with a grieving sigh, for the sky remembers the traveler that slipped away.  \n\nThe most precious fossil, draped in layer upon layer of time, teaches that true treasure lies not in wealth, but in the quiet rhythm of history.",
+  "quote_preview": "Bridges endure when they are built by the steady hand of truth, not by the frantic beat of broken promises.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
-      "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
-      "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Three killed as Russian bombing of Odesa continues",
+      "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Hungary parliament votes to remove president from office",
-      "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+      "title": "China economic growth falls sharply, missing target",
+      "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Colombian national killed by ICE agent during operation in Maine",
-      "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+      "title": "Air India crash report likely to be ready in October, say investigators",
+      "link": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+      "title": "Seven Britons among those killed in Spain wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "EU bans gold imports from Sudan to curb money financing the war",
-      "link": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+      "title": "Boss of fake government agency arrested in Nigeria after weeks on the run",
+      "link": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
+      "title": "China detains US scientist who studied North Korea nuclear tests",
+      "link": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "US burrito giant Chipotle opening first outlet in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+      "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
+      "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
