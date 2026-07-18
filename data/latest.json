@@ -1,52 +1,72 @@
 {
-  "date": "2026-07-17",
-  "date_display": "July 17, 2026",
-  "generated_at": "2026-07-17T10:30:01Z",
+  "date": "2026-07-18",
+  "date_display": "July 18, 2026",
+  "generated_at": "2026-07-18T10:08:23Z",
   "engine": "g4f",
-  "model": "openai",
+  "model": "openai-fast",
   "mode": "ai",
-  "quote": "When a nation throws its arrow, the ancient soil remembers the quiet it must take back.\n\nRumors carried by the wind can become storms if the heart does not hold a still shore.\n\nEven when the ocean swallows a small boat, the stars above continue to guide those who have lost their compass.\n\nA kingdom may soften a ribbon of succession, yet the same cloak still hides the weight of old binding.\n\nWhen a monkey's laughter echoes across the world, it can reveal more hidden truths than the face that smiles.\n\nSelling the breath of markets for swift profit turns wisdom into a whisper chased by noise.\n\nA bus that meets the ground leaves behind a reminder that safety is the distance between the road and the heart.",
-  "quote_preview": "When a nation throws its arrow, the ancient soil remembers the quiet it must take back.",
+  "quote": "When a nation stings in the night, the sunrise still arrives, bearing both sorrow and renewal.\n\nSmoke that crosses borders is a traveler without a passport, reminding us that pollution follows the wind like gossip.\n\nAn army may turn its gaze toward a foreign counsel, yet the river of duty flows toward the homeland unchanged.\n\nA stone launched to orbit whispers that the loftiest dreams begin with a single, daring incantation.\n\nFlags waving in a distant sea speak louder than distant tribunals, yet humility keeps them from being torn by the breeze of arrogance.\n\nWhen a sea vessel is seized by shadows, it reveals that even tranquil waters conceal tempests of greed.\n\nA lone soul on a hunger strike holds the hunger of a nation, and the world can only listen when its own stomach empties.",
+  "quote_preview": "When a nation stings in the night, the sunrise still arrives, bearing both sorrow and renewal.",
   "headline_count": 14,
   "headlines": [
     {
-      "title": "US launches new strikes as Iran says civilian infrastructure hit",
-      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "title": "US strikes hit Iran for seventh consecutive night",
+      "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "More than 500 Rohingya vanished at sea - what happened?",
-      "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
-      "link": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Philippines condemns monkey video on Chinese media as racist",
-      "link": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "title": "White House defends Argentina team over Falklands banner",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
+      "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "School bus crash kills at least 20 pupils in Uganda",
-      "link": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
-      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
-      "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Air conditioner sparked deadly blaze at children's orphanage - police",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World"
+    },
+    {
+      "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     },
     {
@@ -55,28 +75,8 @@
       "source": "BBC World"
     },
     {
-      "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
-      "link": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-      "link": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World"
-    },
-    {
-      "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
-      "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World"
     }
   ]
